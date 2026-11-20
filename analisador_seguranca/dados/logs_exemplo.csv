@@ -1,0 +1,11 @@
+instante,usuario,ip,evento,resultado
+2026-10-20T09:06:00,usuario01,192.0.2.10,login,sucesso
+2026-10-20T09:00:00,usuario01,192.0.2.10,login,falha
+2026-10-20T09:03:00,usuario01,192.0.2.10, LOGIN , FALHA
+instante_invalido,usuario03,203.0.113.30,login,sucesso
+2026-10-20T09:05:00,usuario01,192.0.2.10,login,falha
+2026-10-20T10:00:00,usuario02,198.51.100.20,login,falha
+2026-10-20T10:20:00,usuario02,198.51.100.20,login,falha
+2026-10-20T10:40:00,usuario02,198.51.100.20,login,falha
+2026-10-20T14:00:00,usuario03,203.0.113.30,consulta,sucesso
+2026-10-20T23:15:00,usuario03,203.0.113.30,login,sucesso
